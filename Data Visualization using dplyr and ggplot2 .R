@@ -87,7 +87,6 @@ ggplot(data = gapminder_1957, aes(x = gdpPercap, y = continent) ) +
   labs(title = "Box Plot of GDP per Capita by continent in 1957")
 
 
-# TODO: Remove this comment!
 
 
 
